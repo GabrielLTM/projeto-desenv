@@ -4,9 +4,9 @@
 
 - **Projeto:** Komanda — sistema de gestão para restaurantes
 - **Sprint:** 1
-- **Período:** 17/09 a 24/09 *(ajustar conforme o calendário da disciplina)*
+- **Período:** 17/09 a 24/09
 - **Integrantes:** Anna Hermes, Diego Silva, Gabriel Lessa e Lucas Sol
-- **Scrum Master da Sprint:** Gabriel Lessa *(ajustar se a equipe decidir outro)*
+- **Scrum Master da Sprint:** Gabriel Lessa
 
 ---
 
