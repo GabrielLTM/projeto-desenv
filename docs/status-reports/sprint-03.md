@@ -28,6 +28,10 @@ Foram entregues os cadastros de categorias e produtos e a consulta do cardápio 
 
 Também foram entregues o cadastro de bairros com suas taxas de entrega e o cadastro de motoboys com nome e telefone. Esses cadastros podem ser consultados e atualizados pela aplicação.
 
+A integração entre o frontend e o backend foi concluída para os cadastros de categorias, produtos, ingredientes e adicionais dos produtos, bairros, taxas de entrega e motoboys. As informações são salvas no sistema e permanecem disponíveis após recarregar ou acessar novamente a aplicação.
+
+A aplicação também foi disponibilizada online, permitindo acessar as telas e utilizar os cadastros entregues diretamente pelo navegador.
+
 O alinhamento entre os campos e os fluxos das telas foi concluído, e o primeiro feedback do cliente foi obtido para orientar os próximos ajustes do sistema.
 
 ### Principal dificuldade ou impedimento
@@ -43,6 +47,7 @@ Alinhar os campos e os fluxos dos cadastros para que o atendente consiga realiza
 | Integração do cardápio | Diego Silva e Lucas Sol | Concluído | Categorias, produtos e cardápio disponíveis pela aplicação, com dados salvos para consulta e atualização |
 | Alinhamento dos campos e fluxos das telas | Anna Hermes e Diego Silva | Concluído | Cadastros alinhados aos campos e comportamentos definidos para esta entrega |
 | Cadastro de bairros, taxas de entrega e motoboys | Gabriel Lessa e Lucas Sol | Concluído | Bairros com taxa de entrega e situação ativa; motoboys com nome e telefone, disponíveis para cadastro e consulta |
+| Integração dos cadastros e disponibilização online | Equipe | Concluído | As telas salvam e recuperam os cadastros do sistema; a aplicação está disponível pelo navegador, com os dados preservados entre acessos |
 | Primeiro feedback do cliente | Gabriel Lessa | Concluído | Feedback obtido para orientar os ajustes e a evolução das próximas entregas |
 
 ---
@@ -52,13 +57,17 @@ Alinhar os campos e os fluxos dos cadastros para que o atendente consiga realiza
 ### Evidências
 
 - **Projeto:** [repositório do projeto](https://github.com/GabrielLTM/projeto-desenv).
-- **Aplicação:** [repositório da aplicação](https://github.com/LucassolHenrique/Front-end_mau_mau_lanches).
-- **Serviços do sistema:** [repositório dos serviços](https://github.com/4nnahermes/komanda-backend).
+- **Aplicação disponível online:** [acessar o Komanda](https://komanda-frontend.vercel.app).
+- **Aplicação:** [repositório da aplicação](https://github.com/GabrielLTM/komanda-frontend).
+- **Serviços do sistema:** [repositório dos serviços](https://github.com/GabrielLTM/komanda-backend).
 
 ### Checklist de qualidade
 
 - [x] Os itens planejados foram entregues.
 - [x] Os cadastros permitem salvar, consultar e atualizar os dados.
+- [x] As telas estão integradas aos serviços do sistema para os cadastros entregues.
+- [x] Os dados permanecem disponíveis após recarregar ou acessar novamente a aplicação.
+- [x] A aplicação está disponível online pelo navegador.
 - [x] O cardápio pode ser consultado pela aplicação.
 - [x] O alinhamento das telas previsto para a sprint foi concluído.
 - [x] O primeiro feedback do cliente foi obtido.
