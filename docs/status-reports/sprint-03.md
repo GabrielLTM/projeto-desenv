@@ -10,7 +10,7 @@
 
 ### Meta da Sprint
 
-Permitir o cadastro de categorias, produtos, bairros e motoboys pela aplicação, com os dados salvos e disponíveis para consulta, e obter o primeiro feedback do cliente sobre as telas.
+Permitir o cadastro de categorias, produtos, bairros e motoboys pela aplicação, com os dados salvos e disponíveis para consulta, e apresentar as telas para validação do cliente.
 
 ---
 
@@ -18,9 +18,11 @@ Permitir o cadastro de categorias, produtos, bairros e motoboys pela aplicação
 
 ### Situação da meta
 
-- [x] Alcançada
-- [ ] Parcialmente alcançada
+- [ ] Alcançada
+- [x] Parcialmente alcançada
 - [ ] Não alcançada
+
+As funcionalidades previstas foram entregues. A apresentação e a validação com o cliente ficaram pendentes porque ele esteve indisponível durante o período da sprint.
 
 ### Resultado alcançado
 
@@ -32,11 +34,11 @@ A integração entre o frontend e o backend foi concluída para os cadastros de 
 
 A aplicação também foi disponibilizada online, permitindo acessar as telas e utilizar os cadastros entregues diretamente pelo navegador.
 
-O alinhamento entre os campos e os fluxos das telas foi concluído, e o primeiro feedback do cliente foi obtido para orientar os próximos ajustes do sistema.
+O alinhamento entre os campos e os fluxos das telas foi concluído. O cliente esteve indisponível durante o período da sprint, por isso não foi possível realizar a apresentação e a validação das telas com ele.
 
 ### Principal dificuldade ou impedimento
 
-Alinhar os campos e os fluxos dos cadastros para que o atendente consiga realizar as operações de forma consistente nas diferentes telas.
+A indisponibilidade do cliente durante o período da sprint impediu a apresentação e a validação das telas. A equipe também precisou alinhar os campos e os fluxos dos cadastros para manter as operações consistentes nas diferentes telas.
 
 ---
 
@@ -48,7 +50,7 @@ Alinhar os campos e os fluxos dos cadastros para que o atendente consiga realiza
 | Alinhamento dos campos e fluxos das telas | Anna Hermes e Diego Silva | Concluído | Cadastros alinhados aos campos e comportamentos definidos para esta entrega |
 | Cadastro de bairros, taxas de entrega e motoboys | Gabriel Lessa e Lucas Sol | Concluído | Bairros com taxa de entrega e situação ativa; motoboys com nome e telefone, disponíveis para cadastro e consulta |
 | Integração dos cadastros e disponibilização online | Equipe | Concluído | As telas salvam e recuperam os cadastros do sistema; a aplicação está disponível pelo navegador, com os dados preservados entre acessos |
-| Primeiro feedback do cliente | Gabriel Lessa | Concluído | Feedback obtido para orientar os ajustes e a evolução das próximas entregas |
+| Apresentação e validação das telas com o cliente | Gabriel Lessa | Pendente | O cliente esteve indisponível durante o período da sprint; a atividade deverá ser reagendada |
 
 ---
 
@@ -63,18 +65,18 @@ Alinhar os campos e os fluxos dos cadastros para que o atendente consiga realiza
 
 ### Checklist de qualidade
 
-- [x] Os itens planejados foram entregues.
+- [x] As funcionalidades planejadas foram entregues.
 - [x] Os cadastros permitem salvar, consultar e atualizar os dados.
 - [x] As telas estão integradas aos serviços do sistema para os cadastros entregues.
 - [x] Os dados permanecem disponíveis após recarregar ou acessar novamente a aplicação.
 - [x] A aplicação está disponível online pelo navegador.
 - [x] O cardápio pode ser consultado pela aplicação.
 - [x] O alinhamento das telas previsto para a sprint foi concluído.
-- [x] O primeiro feedback do cliente foi obtido.
+- [ ] A apresentação e a validação das telas com o cliente foram realizadas.
 
 ### Problemas conhecidos
 
-Não foram informados impedimentos que comprometam as funcionalidades entregues. Os ajustes decorrentes do feedback do cliente serão considerados no planejamento da próxima sprint.
+A validação das funcionalidades pelo cliente permanece pendente devido à sua indisponibilidade durante a sprint. Eventuais ajustes serão definidos após a apresentação das telas.
 
 ---
 
@@ -86,11 +88,11 @@ Definir os campos e os comportamentos dos cadastros antes da implementação e t
 
 ### Melhorar
 
-Alinhar mais cedo as diferenças entre as telas e os fluxos esperados, reduzindo ajustes próximos ao encerramento da sprint.
+Alinhar mais cedo as diferenças entre as telas e os fluxos esperados e combinar antecipadamente uma data de apresentação com o cliente.
 
 ### Agir
 
-Priorizar os ajustes levantados com o cliente e definir os critérios de aceite das próximas funcionalidades antes de iniciar o desenvolvimento.
+Reagendar a apresentação das funcionalidades entregues com o cliente e definir os critérios de aceite das próximas funcionalidades antes de iniciar o desenvolvimento.
 
 ---
 
@@ -98,7 +100,7 @@ Priorizar os ajustes levantados com o cliente e definir os critérios de aceite 
 
 ### Meta da próxima Sprint
 
-A definir pela equipe, considerando o feedback do cliente e a próxima etapa do fluxo de atendimento.
+A definir pela equipe, considerando a apresentação pendente ao cliente e a próxima etapa do fluxo de atendimento.
 
 ### Itens inicialmente selecionados
 
@@ -106,10 +108,10 @@ Proposta inicial para discussão no planejamento da próxima sprint.
 
 | User Story ou item | Responsável(is), se definido(s) | Resultado esperado |
 |---|---|---|
-| Ajustes a partir do feedback do cliente | A definir pela equipe | Melhorias priorizadas e incorporadas aos fluxos já entregues |
+| Apresentação e validação com o cliente | A definir pela equipe | Funcionalidades entregues apresentadas e eventuais ajustes identificados e priorizados |
 | Planejamento do registro de pedidos | A definir pela equipe | Fluxo de atendimento e critérios de aceite definidos para a próxima entrega |
 | Validação dos cadastros com dados do restaurante | A definir pela equipe | Cardápio, bairros, taxas e motoboys conferidos com a realidade da Mau Mau Lanches |
 
 ### Riscos ou impedimentos previstos
 
-Mudanças nas necessidades do cliente podem exigir ajustes nos fluxos já entregues. A equipe deve priorizar essas mudanças para manter o escopo da próxima sprint compatível com o tempo disponível.
+A disponibilidade do cliente pode afetar o agendamento da apresentação e a validação das funcionalidades. Eventuais mudanças solicitadas após essa etapa deverão ser priorizadas para manter o escopo da próxima sprint compatível com o tempo disponível.
