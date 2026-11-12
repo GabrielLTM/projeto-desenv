@@ -24,7 +24,7 @@ Validar com o cliente as funcionalidades entregues, aplicar os ajustes pedidos p
 
 ### Resultado alcançado
 
-A equipe levantou com o cliente os ajustes e o que falta para o registro de pedidos:
+A equipe definiu os ajustes e o que falta para o registro de pedidos:
 
 - Remover a tela de consulta do cardápio.
 - Remover a saída de insumos do dashboard.
