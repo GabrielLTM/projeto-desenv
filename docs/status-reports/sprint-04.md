@@ -110,4 +110,4 @@ Aplicar os ajustes definidos pela equipe e permitir que o atendente registre um 
 
 ### Riscos ou impedimentos previstos
 
-O registro de pedidos é a parte mais complexa do sistema e pode não caber inteiro na sprint.
+Nenhum risco identificado.
