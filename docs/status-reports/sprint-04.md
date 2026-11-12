@@ -24,19 +24,19 @@ Validar com o cliente as funcionalidades entregues, aplicar os ajustes pedidos p
 
 ### Resultado alcançado
 
-A equipe conversou com o cliente sobre as funcionalidades entregues e levantou os ajustes que ele pediu e o que falta para o registro de pedidos:
+A equipe levantou com o cliente os ajustes e o que falta para o registro de pedidos:
 
 - Remover a tela de consulta do cardápio.
 - Remover a saída de insumos do dashboard.
-- No pedido, pedir o nome do cliente quando for retirada no balcão e o telefone quando for entrega.
+- No pedido, pedir o nome na retirada no balcão e o telefone na entrega.
 - Ajustar a formatação do telefone do motoboy.
 - Criar a API do pedido.
 
-Nenhum desses itens foi implementado durante a sprint.
+Nenhum item foi implementado.
 
 ### Principal dificuldade ou impedimento
 
-A sprint foi dedicada ao levantamento com o cliente, e a implementação dos ajustes e do registro de pedidos não chegou a começar.
+Falta de organização e de priorização da equipe.
 
 ---
 
@@ -72,7 +72,7 @@ A sprint foi dedicada ao levantamento com o cliente, e a implementação dos aju
 
 ### Problemas conhecidos
 
-Os ajustes pedidos pelo cliente continuam pendentes. A aplicação ainda mostra a tela de consulta do cardápio e a saída de insumos no dashboard, e o telefone do motoboy segue com a formatação antiga.
+Os ajustes pedidos pelo cliente continuam pendentes.
 
 ---
 
@@ -80,15 +80,15 @@ Os ajustes pedidos pelo cliente continuam pendentes. A aplicação ainda mostra 
 
 ### Manter
 
-Levar as funcionalidades entregues ao cliente antes de avançar. A conversa gerou ajustes concretos e definiu o que o registro de pedidos precisa pedir em cada tipo de atendimento.
+Levar as funcionalidades ao cliente antes de avançar.
 
 ### Melhorar
 
-O levantamento terminou sem virar tarefas com responsável e prazo, e por isso a implementação não começou dentro da sprint.
+Organização e priorização das tarefas da sprint.
 
 ### Agir
 
-Transformar cada ajuste em uma issue com responsável e critério de aceite logo no início da Sprint 5, antes de qualquer outra atividade.
+Criar uma issue com responsável para cada item no início da Sprint 5 e fazer os ajustes menores primeiro.
 
 ---
 
@@ -110,4 +110,4 @@ Aplicar os ajustes pedidos pelo cliente e permitir que o atendente registre um p
 
 ### Riscos ou impedimentos previstos
 
-O registro de pedidos é a parte mais complexa do sistema, porque envolve o cálculo do total, a taxa de entrega e o troco. Para caber na sprint, os ajustes menores devem ser feitos primeiro, e o pedido deve começar pelo fluxo mais simples, deixando a baixa de estoque para a sprint seguinte.
+O registro de pedidos é a parte mais complexa do sistema e pode não caber inteiro na sprint.
