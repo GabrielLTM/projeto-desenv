@@ -96,7 +96,7 @@ Criar uma issue com responsável para cada item no início da Sprint 5 e fazer o
 
 ### Meta da próxima Sprint
 
-Aplicar os ajustes pedidos pelo cliente e permitir que o atendente registre um pedido de retirada no balcão ou de entrega, com os dados salvos pela API.
+Aplicar os ajustes definidos pela equipe e permitir que o atendente registre um pedido de retirada no balcão ou de entrega, com os dados salvos pela API.
 
 ### Itens inicialmente selecionados
 
